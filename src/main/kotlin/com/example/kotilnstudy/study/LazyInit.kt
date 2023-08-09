@@ -1,7 +1,5 @@
 package com.example.kotilnstudy.study
 
-import org.springframework.beans.factory.annotation.Autowired
-
 class HelloBot {
 //    val greeting : String by lazy(LazyThreadSafetyMode.NONE) {
 //        println("초기화 로직 수행")
